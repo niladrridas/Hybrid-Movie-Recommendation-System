@@ -24,8 +24,8 @@ A comprehensive movie recommendation system using collaborative filtering (SVD) 
 1. **Clone the repository**:
 
     ```
-    git clone https://github.com/niladrridas/Hybrid-Movie-Recommendation-System.git
-    cd Hybrid-Movie-Recommendation-System
+    git clone https://github.com/niladrridas/movieml.git
+    cd movieml
     ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -50,7 +50,7 @@ A comprehensive movie recommendation system using collaborative filtering (SVD) 
     ```
 
 2. **Open the notebook**:
-    - Navigate to `Hybrid-Movie-Recommendation-System.ipynb` and open it.
+    - Navigate to `main_py.ipynb` and open it.
 
 3. **Follow the steps in the notebook** to:
     - Load and preprocess the data
@@ -61,7 +61,7 @@ A comprehensive movie recommendation system using collaborative filtering (SVD) 
 
 ## Project Structure
 
-- `Hybrid-Movie-Recommendation-System.ipynb`: Jupyter Notebook containing the code and explanations
+- `main_py.ipynb`: Jupyter Notebook containing the code and explanations
 - `data/`: Directory to store datasets (users, movies, ratings)
 - `requirements.txt`: List of required Python packages
 
@@ -91,7 +91,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/niladrridas/Hybrid-Movie-Recommendation-System/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/niladrridas/movieml/blob/main/LICENSE) file for details.
 
 ### Instructions to Push Repository to GitHub Using VSCode
 
@@ -124,7 +124,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
     - Add it as a remote in your local Git repository:
 
     ```
-    git remote add origin https://github.com/niladrridas/Hybrid-Movie-Recommendation-System.git
+    git remote add origin https://github.com/niladrridas/movieml.git
     ```
 
 6. **Push the Local Repository to GitHub**:
